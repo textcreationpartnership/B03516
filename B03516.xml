@@ -1,0 +1,267 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Great news from Lymerick. An account of the late action of Capt. Cole, in the River Shannon. : Being [a] relation of his taking a French frigate; as also, of his barring up thirty sale more of French ships. : With an account of the famous Baldarick Lord O'Donnel's terms of submission to their Majesties, for himself, and followers. : To which is added, the late defeat of the rebels in the north, by Collonel Ramsey.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03516</idno>
+            <idno type="STC">Wing G1726AA</idno>
+            <idno type="STC">ESTC R225426</idno>
+            <idno type="EEBO-CITATION">49521468</idno>
+            <idno type="OCLC">ocm 49521468</idno>
+            <idno type="VID">174142</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03516)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174142)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2667:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Great news from Lymerick. An account of the late action of Capt. Cole, in the River Shannon. : Being [a] relation of his taking a French frigate; as also, of his barring up thirty sale more of French ships. : With an account of the famous Baldarick Lord O'Donnel's terms of submission to their Majesties, for himself, and followers. : To which is added, the late defeat of the rebels in the north, by Collonel Ramsey.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for N. Kettlewel, by St. Dunstans Church in Fleet-street,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1691.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>"Licensed, according to order. 1691."</note>
+                  <note>Reproduction of original in: Christ Church (University of Oxford). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cole, --  Captain.</term>
+               <term>O'Donnell, Hugh Balldearg, d. 1704.</term>
+               <term>Ramsey, --  Colonel.</term>
+               <term>Ireland --  History --  War of 1689-1691.</term>
+               <term>Limerick (Limerick, Ireland) --  History --  Siege, 1690.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-12</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-12</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb facs="tcp:174142:1" rendition="simple:additions"/>
+            <head>
+               <hi>Great News from Lymerick.</hi> An ACCOUNT of the Late Action of Capt. COLE, IN THE <hi>River</hi> SHANNON. BEING <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>elation of his Taking a <hi>French</hi> Frigate; as alſo, of his Barring up <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Sale more of <hi>French</hi> Ships. WITH Account of the Famous <hi>Baldarick</hi> Lord <hi>O' Donnel</hi>'s Terms of Sub<g ref="char:EOLhyphen"/>miſſion to Their Majeſties, for Himſelf, and Followers To which is added, The late Defeat of the Rebels in the <hi>North,</hi> by Collonel <hi>Ramſey.</hi>
+            </head>
+            <floatingText type="license" xml:lang="eng">
+               <body>
+                  <p>LICENSED, According to Order. 1691.</p>
+               </body>
+            </floatingText>
+            <p>CAptain <hi>Cole,</hi> with the Squadron under his Command, and the Ar<g ref="char:EOLhyphen"/>tillery-Ships, arriving in the Bay of <hi>Galway,</hi> the General ſent Or<g ref="char:EOLhyphen"/>ders for their immediate Sailing to the River <hi>Shannon,</hi> (as you have already heard:) which ſaid Orders being effectually executed, he was not long arrived in the ſaid River, before a <hi>French</hi>-Frigate taking them <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or a Fleet of their own Nation, fell in with them near a Place called, <hi>Car<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ickaholt</hi> and was made a Prize; The Ship was very Richly Laden, having among other Rich Goods, all the Baggage, Coaches, Charging Horſes, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ate, <hi>&amp;c.</hi> belonging to the late Monſieur <hi>St. Ruth:</hi> And, at the ſame time, two other Veſſels, wherein were <hi>Sarſefield</hi>'s, and ſeveral other Ladies of Quality, with all their rich Effects, very narrowly eſcaped; which be<g ref="char:EOLhyphen"/>ing not far behind them, and underſtanding the Fate of their Companion, made all the Sail they could to <hi>Lymerick,</hi> for which the Wind very much favoured them, and we hear there are above Thirty Sail more, ready La<g ref="char:EOLhyphen"/>den for <hi>France,</hi> whither they intended before now, had they not been prevented by Captain <hi>Cole</hi>'s Sqadron. On Board of theſe Ships, were moſt of the <hi>French</hi>-Officers; whom, as 'tis ſaid, are reſolved to leave the Kingdom, if poſſible they can get away, upon the Occaſion of the great Heats and diſagreements between Them, and the <hi>Iriſh</hi> Nobility and Offi<g ref="char:EOLhyphen"/>cers at <hi>Lymerick.</hi>
+            </p>
+            <p>
+               <hi>Baldarick,</hi> Lord <hi>O' Donnel,</hi> one of the greateſt, and moſt Antient Fa<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>lies of the <hi>Iriſh,</hi> even equal, in Antiquity, with Thoſe of the <hi>O' Neal</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d whome the <hi>Iriſh</hi> Commonalty Term a Prophet, they having, at <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> pretended Propheſy, which goes current among them, That this <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>an ſhall be a deliverer of their Country, at a time when its brough<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> loweſt Ebb; and they think now 'tis to be fulfilled; for which <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <pb facs="tcp:174142:2"/>they invited him, by many Solicitations, from <hi>Spain;</hi> where he had ſided for many Years. This <hi>Baldarick</hi> hath lately offered to bring in the Arms of his numerous Followers, which are in the County of M<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and parts adjacent; and hath made ſome other Propoſals to the Gover<g ref="char:EOLhyphen"/>ment, provided they will ſuffer him to take Three Thouſand of his <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to <hi>Flanders,</hi> who ſhall be there employed in Their Majeſties Service, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> alſo, Sir <hi>Walter Blake,</hi> Collonel <hi>Bodkin,</hi> and other <hi>Iriſh</hi> 
+               <gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Collonels fire to Tranſport their Regiments.</p>
+            <p>On the <hi>5th.</hi> inſtant, Their Majeſties Army, under the Command Lieut. General <hi>Ginkle,</hi> Decamped from the Town of <hi>Birr,</hi> and came <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Night to a Place called <hi>Burraskeen,</hi> from which Place they Decamped next Morning, and in the Evening they came to <hi>Nenagh,</hi> which <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> had been ſome time before quitted by Bdrigadier <hi>Carrol,</hi> (as you have <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ready heard) here they reſted a little, and on the <hi>8th.</hi> they came to <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Town of <hi>Carrick Engliſh,</hi> which is in the Neighbourhood of <hi>Lymerick,</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> but 5 Miles from the ſaid City, and from hence, ſome ſay, our Gen<gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> will ſend a Trumpet to Summon the Governour.</p>
+            <p>From the North, we have an Account that Lieut. Col. <hi>Alexander Ra<gap reason="illegible" resp="#KEYERS" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap>
+               </hi> of Collonel <hi>Venner</hi>'s Regiment, with 100 of the Army, and about 400 <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Militia, lately made a deſcent into the Counties of <hi>Mayo</hi> and <hi>Sligo, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> view the poſture of the Rebels thereabouts; and having detatched <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Horſe and Dragoons from our Party, to diſcover if Collonel <hi>Sheld<gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>
+               </hi> Horſe (as 'twas ſaid) were in this part of the Country: Lieutenant <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>lonel <hi>R<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſey,</hi> with the reſt Marched to <hi>Ballyſidara</hi>-Bridge, where he <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>Sir T. O Regan,</hi> with 80 Horſe, and about 200 Foot very advantagion <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Poſted, to hinder our Progreſs; notwithſtanding, our Men attach <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> them, at which time Sir <hi>Francis Hamilton,</hi> Governour of the County <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Donegall,</hi> coming in with ſome of his Militia Horſe, and a Troop of <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>lonel <hi>Winn</hi>'s Regiment of Dragoons of the Army; we purſued the Re<gap reason="illegible" resp="#KEYERS" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap> for ſome conſiderable way, Killed about 40 of them, and took 19 Pri<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ners; among whom were two Lieutenants, and an Enſign; we had <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> one Man wounded in this Action, and a Reformed Lieutenant, who fo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>lowed the Chaſe too far, taken Priſoner: By the time this Action was <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ded, our Horſe which were detatched to look after <hi>Sheldon</hi>'s, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>etur<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> with great Booty, which they had taken from the Enemy, and brought <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> with them ſeveral <hi>Engliſh</hi> Men, who had been long under the Slavery <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> thoſe Rebels, who taking the opportunity of our Convoy, brought <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> their Famelies and Stocks.</p>
+            <p>Letters that came in this day from <hi>Briſtol,</hi> Dated on <hi>Saturday</hi> the <hi>15th.</hi> inſtant, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> an Account of the Arrival there of their <hi>Virginia</hi> Fleet, and that the great Flee<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Bound for <hi>London,</hi> from the ſaid place, was but few Leagues behind them, and <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> this Morning an Expreſs Arrived from <hi>Biddiford,</hi> who came out ſome time after <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Poſt;</hi> by whom we have the happy and welcome News of the Arrival of the great <hi>Vir<g ref="char:EOLhyphen"/>ginia</hi> Fleet in that Road, conſiſting of 160 Sail; which Fleet, beſides other gre<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> advantages, will bring a vaſt Sum of Money to Their Majeſties for Cuſtom, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> day 300000 <hi>l.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>N. Kettlewel,</hi> by St. <hi>Dunſtans</hi> Church in <hi>Fleet-ſtreet.</hi> 1691.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
